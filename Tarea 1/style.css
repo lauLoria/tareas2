@@ -1,0 +1,68 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url('imagenes/fondo.jpg');
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#foto{
+    width:300px;
+    height:300px;
+    border-radius:50px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+header {
+    text-align: center; /* Alinea el texto al centro */
+    background-color: rgb(43, 70, 146);
+    border-radius:50px;
+   color: white;
+  }
+
+  main{
+    text-align: center;
+}
+article {
+    font-size: 16px; /* Cambia el tamaño de fuente del artículo */
+    line-height: 1.5; /* Ajusta el espaciado entre líneas */
+    padding: 20px; /* Añade un espaciado interno */
+  }
+  
+
+.navegador{
+    margin-left: 15px;
+    margin-right: auto;
+    text-align: center;
+    font-size: 25px; /* Tamaño de letra más grande */
+    color:  white;
+    }
+
+    table {
+        width: 45%;
+        margin: auto;
+        margin-top: 100px;
+        border: 1px solid #000;
+        text-align: center;
+        background-color: cadetblue;
+     }
+
+     ul {
+        list-style-type: circle; /* Cambia el tipo de marcador */
+        list-style-position: inside; /* Coloca el marcador dentro del espacio de sangría */
+      }
+
+footer{
+     background-color: rgb(43, 70, 146);
+     margin-top: 150px;
+     font-family: "Times New Roman", Times, serif;
+     color: white;
+     border-radius:50px;
+ }
+
+      
+      
+      
+      
+      

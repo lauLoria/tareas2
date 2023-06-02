@@ -1,0 +1,105 @@
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url('imagenes/bandera.jpeg');
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+
+.divs {
+    background-color: rgba(77, 76, 76, 60%);
+    text-align: center;
+    margin-top: 100px;
+    text-decoration: wavy;
+
+}
+
+.divs table {
+    margin: auto;
+    width: 50%;
+    border-collapse: separate;
+    border-spacing: 5px;
+    border-style: double;
+    background-color: blanchedalmond;
+}
+
+.candidatos {
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+td,th {
+    background: rgba(77, 76, 76, 60%);
+
+}
+
+.card {
+    margin: auto;
+    background: rgba(77, 76, 76, 60%);
+}
+
+.redes {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: auto;
+    width: 24px;
+    height: 24px;
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+    height: 150px;
+    background-color: rgba(77, 76, 76, 60%);
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-size: inherit;
+}
+
+video {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.container {
+    display: flex;
+    background-color: rgba(77, 76, 76, 60%);
+}
+
+article {
+    flex: 1;
+}
+
+section {
+    text-align: center;
+}
+
+section h2 {
+    color: blue;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+section video {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+section audio {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
